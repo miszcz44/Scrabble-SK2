@@ -3,5 +3,5 @@ project(Scrabble-BR)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_subdirectory(../Scrabble-BR8/client)
-add_subdirectory(../Scrabble-BR8/server)
+add_subdirectory(../Scrabble-SK2/client)
+add_subdirectory(../Scrabble-SK2/server)
